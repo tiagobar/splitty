@@ -26,8 +26,8 @@ cat caderno3.json
 
 ## Files:
 
-caderno3-Judicial-1ªInstancia-Capital.pdf: PDF to be extracted
-caderno3.txt: raw text result from ghost script
-caderno3_parsed.txt: boilerplate removed with sed expresion
-caderno3.json: Result using splitty script
-example.py: Example script using Splitty
+- caderno3-Judicial-1ªInstancia-Capital.pdf: PDF to be extracted
+- caderno3.txt: raw text result from ghost script
+- caderno3_parsed.txt: boilerplate removed with sed expresion
+- caderno3.json: Result using splitty script
+- example.py: Example script using Splitty
