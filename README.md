@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/dunossauro/splitty.svg?branch=master)](https://travis-ci.org/dunossauro/splitty)
 [![Coverage Status](https://coveralls.io/repos/github/dunossauro/splitty/badge.svg?branch=master)](https://coveralls.io/github/dunossauro/splitty?branch=master)
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/dunossauro/splitty.svg?columns=all)](https://waffle.io/dunossauro/splitty)
-
 
 # splitty
 functional approach to work with iterables in python
